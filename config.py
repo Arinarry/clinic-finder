@@ -1,0 +1,3 @@
+BOT_TOKEN = ""
+GEOCODER = ""
+ORGANIZATION = ""
